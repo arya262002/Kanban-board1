@@ -12,7 +12,7 @@ This is a Kanban board application built using React JS
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here]([https://main.d2nq9mz8ggbsl4.amplifyapp.com](https://6564cc41fb8c8a007d4a8b0d--inquisitive-faun-cf506b.netlify.app/)).
+You can see a live demo of the Kanban board application [https://6564cc41fb8c8a007d4a8b0d--inquisitive-faun-cf506b.netlify.app/]
 
 
 ## Usage
